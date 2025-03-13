@@ -1,6 +1,6 @@
-# NovelGPT
+# novel-multi-agents
 
-NovelGPT是一个利用opeai-agnet-SDK进行小说创作的框架，通过多个专业化AI智能体协作完成从大纲构思到章节写作的全流程。
+novel-multi-agents是一个利用opeai-agnet-SDK进行小说创作的框架，通过多个专业化AI智能体协作完成从大纲构思到章节写作的全流程。
 该项目使用Ollama本地部署模型创建每个Agent，也可以使用在线大模型或者其他类似LLM运行环境
 
 
